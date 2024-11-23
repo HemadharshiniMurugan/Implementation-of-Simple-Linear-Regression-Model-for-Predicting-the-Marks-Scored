@@ -9,7 +9,6 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Algorithm
 1.To predict the marks scored by students based on the number of hours they studied.
-
 2. Describe the data used (e.g., hours studied and marks scored) and how it was collected.
 
 3.Use the formula 𝑌=𝛽0+𝛽1⋅𝑋 to train the model and calculate the regression coefficients.
